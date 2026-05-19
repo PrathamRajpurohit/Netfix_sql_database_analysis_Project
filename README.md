@@ -1,1 +1,1 @@
-# Netfix_sql_database_analysis_Project
+#Netflix Movies and TV Shows Data Analysis using SQL
